@@ -1,4 +1,4 @@
-# scrape_academic_social_networks
+# Scrape-Academic-Social-Networks
 
 For a college project, me and a classmate had to find out how many documents the authors of each school from Instituto Politécnico do Porto (IPP) had published in academic social networks, specifically Google Scholar, ResearchGate and Academia.edu. Unfortunately, there's still no API support for none of them, and so I had to scrape this information with Python and Selenium.
 
