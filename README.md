@@ -1,8 +1,8 @@
 # Scrape-Academic-Social-Networks
 
-For a college project, me and a classmate had to find out how many documents the authors of each school from Instituto Politécnico do Porto (IPP) had published in academic social networks, specifically Google Scholar, ResearchGate and Academia.edu. Unfortunately, there's still no API support for none of them, and so I had to scrape this information with Python and Selenium.
+For a college project, me and a classmate had to find out how many documents the authors of each school from Instituto Politécnico do Porto (IPP) had published, along with some other metrics, in academic social networks, specifically Google Scholar, ResearchGate and Academia.edu. Unfortunately, there's still no API support for none of them, and so I had to scrape this information with Python and Selenium.
 
-These scripts are by no means API to the platforms, since they were tailored to our need, but I think these scripts offer a solid base for someone looking to start a project like that.
+These scripts are by no means API for the platforms, since they were tailored to our need, but I think these scripts offer a solid base for someone looking to start a project like that.
 
 Due note that, because these scripts (Selenium) rely on a Google Chrome driver, you need to specify the path where it's located. For my case, executing the driver once and having it in the same folder as the scripts was enough to run the script successfully afterwards.
 
